@@ -4,4 +4,5 @@
 
 
 - Meu nome é Monique Pitelli
-- Estou aprendendo na Alura
+- Estou aprendendo na [Alura](https://www.alura.com.br)
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
